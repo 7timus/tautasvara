@@ -1,0 +1,2 @@
+# tautasvara
+Static page host
